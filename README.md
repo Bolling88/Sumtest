@@ -3,8 +3,11 @@
 Error:
 Launching lib/main.dart on Pixel 5 in debug mode...
 Running Gradle task 'assembleDebug'...
+
 e: /Users/LudwigBolling/.pub-cache/hosted/pub.dartlang.org/flutter_idensic_mobile_sdk_plugin-1.19.4/android/src/main/kotlin/com/sumsub/idensic/mobile/sdk/plugin/Extensions.kt: (9, 37): Object is not abstract and does not implement abstract member public abstract fun error(p0: String, p1: String?, p2: Any?): Unit defined in io.flutter.plugin.common.MethodChannel.Result
+
 e: /Users/LudwigBolling/.pub-cache/hosted/pub.dartlang.org/flutter_idensic_mobile_sdk_plugin-1.19.4/android/src/main/kotlin/com/sumsub/idensic/mobile/sdk/plugin/Extensions.kt: (12, 9): 'error' overrides nothing
+
 e: /Users/LudwigBolling/.pub-cache/hosted/pub.dartlang.org/flutter_idensic_mobile_sdk_plugin-1.19.4/android/src/main/kotlin/com/sumsub/idensic/mobile/sdk/plugin/MethodCallHandler.kt: (192, 39): Type mismatch: inferred type is BinaryMessenger? but BinaryMessenger was expected
 
 FAILURE: Build failed with an exception.
