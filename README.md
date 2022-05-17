@@ -24,7 +24,9 @@ BUILD FAILED in 4s
 Exception: Gradle task assembleDebug failed with exit code 1
 
 Flutter doctor:
+
 Doctor summary (to see all details, run flutter doctor -v):
+
 [✓] Flutter (Channel stable, 3.0.0, on macOS 12.3.1 21E258 darwin-x64, locale en-SE)
 
 [✓] Android toolchain - develop for Android devices (Android SDK version 31.0.0)
